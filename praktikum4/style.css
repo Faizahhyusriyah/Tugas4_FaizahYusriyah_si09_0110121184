@@ -1,0 +1,25 @@
+.halaman {
+    display: flex;
+    margin-top: 1mm;
+}
+.foto {
+    display: block;
+    margin-top: 2em;
+}
+.profile {
+    text-align: left;
+    font-size: larger;
+    padding-left: 3%;
+}
+.categories {
+    font-size: 5mm;
+    padding-top: 2%;
+    padding-left: 45%;
+    padding-right: 45%;
+}
+.bawah {
+        float: right;
+        width: 33.33%;
+        padding: 10px;
+        height: 300px;
+}
